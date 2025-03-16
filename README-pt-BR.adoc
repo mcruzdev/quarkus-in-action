@@ -1,0 +1,57 @@
+= Quarkus em Ação -- Código do livro
+
+Este repositório representa o código desenvolvido no livro link:https://www.manning.com/books/quarkus-in-action[Quarkus em Ação], lançado em janeiro de 2025.
+
+*Versão gratuita do e-book online - https://developers.redhat.com/e-books/quarkus-action*
+
+*A versão impressa pode ser comprada aqui - http://mng.bz/7vl7*
+
+++++
+<p align="center">
+  <img width="300" src="images/book-cover.png">
+</p>
+++++
+
+---
+
+_Disponível em_: link:README.adoc[Inglês] | link:README-pt-BR.adoc[Português Brasileiro]
+
+> Um grande agradecimento a todos os colaboradores que tornaram isso possível (https://github.com/xstefank/quarkus-in-action/graphs/contributors).
+
+As pastas deste repositório correspondem aos capítulos individuais do livro. O histórico de commits contém as implementações passo a passo adicionadas conforme cada seção do livro.
+
+- link:chapter-02/README-pt-BR.adoc[Capítulo 2: Sua primeira aplicação Quarkus]
+- link:chapter-03[Capítulo 3: Melhorando a produtividade do desenvolvedor com Quarkus]
+- link:chapter-04[Capítulo 4: Lidando com comunicações]
+- link:chapter-05[Capítulo 5: Testando aplicações Quarkus]
+- link:chapter-06[Capítulo 6: Expondo e protegendo aplicações web]
+- link:chapter-07[Capítulo 7: Acesso a banco de dados]
+- link:chapter-08[Capítulo 8: Programação reativa]
+- link:chapter-09[Capítulo 9: Mensageria com Quarkus]
+- link:chapter-10[Capítulo 10: Padrões de aplicações nativas de nuvem]
+- link:chapter-11[Capítulo 11: Aplicações Quarkus na nuvem]
+- link:chapter-12[Capítulo 12: Extensões Quarkus personalizadas]
+
+O diretório link:acme-car-rental[acme-car-rental] na raiz contém a aplicação completa de aluguel de carros que você começa a construir a partir do Capítulo 4. Tudo pode ser compilado a partir do código-fonte. Sinta-se à vontade para experimentar essa base de código como preferir.
+
+Se você tiver comentários, ideias ou propostas, fique à vontade para abrir link:https://github.com/xstefank/quarkus-in-action/issues/new/choose[uma issue neste repositório] ou propor link:https://github.com/xstefank/quarkus-in-action/compare[um pull request].
+
+Você também pode entrar em contato diretamente com os autores:
+
+*Martin Stefanko*
+
+- X - link:https://twitter.com/xstefank[@xstefank]
+- Mastodon - link:https://mastodon.cloud/@xstefank[@xstefank@mastodon.cloud]
+- BlueSky - link:https://bsky.app/profile/xstefank.bsky.social[@xstefank.bsky.social]
+- LinkedIn - https://www.linkedin.com/in/martin-stefanko/
+
+*Jan Martiska*
+
+- X - link:https://twitter.com/janmartiska[@janmartiska]
+- LinkedIn - https://www.linkedin.com/in/janmartiska/
+
+++++
+<p align="center">
+  <img width="460" src="images/authors.jpeg">
+</p>
+++++

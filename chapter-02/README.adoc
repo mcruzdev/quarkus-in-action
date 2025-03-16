@@ -1,6 +1,6 @@
 = Quarkus in Action Chapter 02 - Your first Quarkus application
 
-_Available in_: link:README.adoc[English]
+_Available in_: link:README.adoc[English] | link:README-pt-BR.adoc[Português Brasileiro (Brazilian Portuguese)]
 
 ---
 

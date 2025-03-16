@@ -1,6 +1,6 @@
 = Quarkus in Action Chapter 03 - Enhancing developer productivity with Quarkus
 
-_Available in_: link:README.adoc[English]
+_Available in_: link:README.adoc[English] | link:README-pt-BR.adoc[Português Brasileiro (Brazilian Portuguese)]
 
 ---
 
